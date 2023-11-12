@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="100" height="100"/>
+<img src= "https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"  width="100" height="100"/>
 
 <h1 align="center">Hi 👋, I'm Dina</h1>
 <h3 align="center">A beginner is coding.</h3>
@@ -28,6 +29,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" alt="Face with Hand Over Mouth" width="40" height="40" />
+
+  
 <!---
 dinfahi/dinfahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
