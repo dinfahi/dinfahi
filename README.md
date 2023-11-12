@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="100" height="100"/>
 
 <h1 align="center">Hi 👋, I'm Dina</h1>
 <h3 align="center">A beginner is coding.</h3>
