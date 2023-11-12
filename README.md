@@ -1,4 +1,4 @@
-coding selamat datang.py
+
 - 👋 Hi, I’m Dina @dinfahi, Extrovert, Alpha and Independent Women. 
 - 👀 I’m interested in Public Policy, Coding, and Journalist. 
 - 🌱 I’m currently learning Python, HTML, CSS, JS and Non Coding.
