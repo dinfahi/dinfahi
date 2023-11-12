@@ -5,7 +5,7 @@
 - 📫 How to reach me : dina.fahimaa@gmail.com
 - I am also actively preparing for get a doctor scholarship in overseas or Indonesia.
   My ability includes Web designer, writing, library management and avid reader.
-  ![data_management.gif](image link)
+  ![data management ](data_management.gif)
 <!---
 dinfahi/dinfahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
